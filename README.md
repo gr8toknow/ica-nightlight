@@ -16,7 +16,7 @@ A small Arduino night light that your team builds together while practicing Git 
 
 **Developer A (Sensor):** Amir Muhamed (Amirm23)
 
-**Developer B (LED):** Your Name (your GitHub username)
+**Developer B (LED):** Dante Gallardo (danteg55)
 
 **Developer C (Button):** Amir Muhamed (Amirm23)
 
